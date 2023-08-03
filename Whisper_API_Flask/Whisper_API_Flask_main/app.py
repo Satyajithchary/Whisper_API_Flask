@@ -1,4 +1,3 @@
-pip install --Flask
 from flask import Flask, abort, request
 import whisper
 from tempfile import NamedTemporaryFile
